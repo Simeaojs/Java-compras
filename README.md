@@ -12,7 +12,7 @@ Este é um projeto Java que simula um aplicativo de gerenciamento de cartão de 
 1. Clone este repositório em seu sistema local:
 
 ```bash
-git clone https://github.com/Simeaojs/Java-compras
+git clone https://github.com/Simeaojs/Java-compras.git
 ```
 2. Abra o Projeto em sua IDE de escolha.
 3. Compile e execute o arquivo `App.java` para iniciar o aplicativo.
