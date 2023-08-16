@@ -1,4 +1,4 @@
-# * Cartão de Crédito App*
+# * Compras.app*
 
 Este é um projeto Java que simula um aplicativo de gerenciamento de cartão de crédito. Ele permite ao usuário adicionar compras ao cartão de crédito e acompanhar o saldo disponível.
 
@@ -28,16 +28,16 @@ git clone https://github.com/SEU_USUARIO/cartao-de-credito-app.git
 + Exibição do saldo disponível no cartão.
 
 #
-
-## 🛠Tecnologia
-[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
-[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
-
 ## Estrutura do projeto
 
 + `App.java` O ponto de entrada do aplicativo. Contém a interface de linha de comando.
 +  `CartaoDeCredito.java `: Classe que representa o cartão de crédito e suas operações.
 +  `Compra.java `: Classe que representa uma compra, com validações de parâmetros.
++  
+
+## 🛠Tecnologia
+[![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]() 
+[![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
 
  ## Contribuição
 
