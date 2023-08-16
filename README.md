@@ -1,4 +1,4 @@
-# *Cartão de Crédito App*
+# *💳 Cartão de Crédito App*
 
 Este é um projeto Java que simula um aplicativo de gerenciamento de cartão de crédito. Ele permite ao usuário adicionar compras ao cartão de crédito e acompanhar o saldo disponível.
 
